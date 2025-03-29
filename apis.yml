@@ -13,8 +13,12 @@ apis:
       - url: ' https://docs.dragoneye.ai'
         type: Documentation
     description: >-
-      This short guide will help you quickly start getting results from the
-      Dragoneye API. 
+      Dragoneye is a computer vision platform designed to democratize access to
+      advanced image and video recognition technologies. It enables developers
+      to build and deploy custom models tailored to their specific use cases
+      without the need for coding or data labeling. By automating the entire
+      processfrom model specification to deploymentDragoneye eliminates the
+      traditional complexities associated with computer vision development.
 name: Dragoneye
 tags:
   - Artificial Intelligence
