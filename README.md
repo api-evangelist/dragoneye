@@ -1,5 +1,5 @@
 # Dragoneye (dragoneye)
-Dragoneye is a computer vision platform designed to democratize access to advanced image and video recognition technologies. It enables developers to build and deploy custom models tailored to their specific use cases without the need for coding or data labeling. By automating the entire processfrom model specification to deploymentDragoneye eliminates the traditional complexities associated with computer vision development. 
+Dragoneye is a computer vision platform designed to democratize access to advanced image and video recognition technologies. It enables developers to build and deploy custom models tailored to their specific use cases without the need for coding or data labeling. By automating the entire processfrom model specification to deploymentDragoneye eliminates the traditional complexities associated with computer vision development. 
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/dragoneye/refs/heads/main/apis.yml)
 
@@ -21,7 +21,7 @@
 ## APIs
 
 ### Dragoneye API
-Dragoneye is a computer vision platform designed to democratize access to advanced image and video recognition technologies. It enables developers to build and deploy custom models tailored to their specific use cases without the need for coding or data labeling. By automating the entire processfrom model specification to deploymentDragoneye eliminates the traditional complexities associated with computer vision development.
+Dragoneye is a computer vision platform designed to democratize access to advanced image and video recognition technologies. It enables developers to build and deploy custom models tailored to their specific use cases without the need for coding or data labeling. By automating the entire processfrom model specification to deploymentDragoneye eliminates the traditional complexities associated with computer vision development.
 
 **Human URL:** [ https://docs.dragoneye.ai]( https://docs.dragoneye.ai)
 
@@ -33,6 +33,13 @@
 #### Properties
 
 - [Documentation]( https://docs.dragoneye.ai)
+
+## Common Properties
+
+- [Pricing](https://dragoneye.ai/pricing)
+- [Website](https://dragoneye.ai/)
+- [Blog](https://dragoneye.ai/blog)
+- [Documentation](https://docs.dragoneye.ai/?_gl=1*18afjtt*_gcl_au*MTc0MzA0NzM0NC4xNzQwNzg3ODc5)
 
 ## Maintainers
 
