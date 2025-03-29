@@ -5,7 +5,9 @@ apis:
   - aid: dragoneye:dragoneye
     name: Dragoneye
     tags:
-      - API
+      - Artificial Intelligence
+      - Image Recognition
+      - Video Recognition
     humanURL: ' https://docs.dragoneye.ai'
     properties:
       - url: ' https://docs.dragoneye.ai'
