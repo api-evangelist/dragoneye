@@ -3,7 +3,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/dragoneye/refs/heads/main/apis.yml
 apis:
   - aid: dragoneye:dragoneye
-    name: Dragoneye
+    name: Dragoneye API
     tags:
       - Artificial Intelligence
       - Image Recognition
