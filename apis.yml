@@ -28,7 +28,7 @@ type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2025-03-01T00:00:00.000Z'
-modified: '2025-03-29'
+modified: '2026-03-16'
 position: Consuming
 description: >-
   Dragoneye is a computer vision platform designed to democratize access to
@@ -39,7 +39,7 @@ description: >-
   complexities associated with computer vision development. 
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
   - name: Pricing | Dragoneye
