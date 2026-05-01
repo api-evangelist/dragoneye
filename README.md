@@ -1,49 +1,59 @@
 # Dragoneye (dragoneye)
-Dragoneye is a computer vision platform designed to democratize access to advanced image and video recognition technologies. It enables developers to build and deploy custom models tailored to their specific use cases without the need for coding or data labeling. By automating the entire processfrom model specification to deploymentDragoneye eliminates the traditional complexities associated with computer vision development. 
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/dragoneye/refs/heads/main/apis.yml)
+Dragoneye is a computer vision platform designed to democratize access to advanced image and video recognition technologies. It enables developers to build and deploy custom models tailored to their specific use cases without the need for coding or data labeling. By automating the entire process from model specification to deployment, Dragoneye eliminates the traditional complexities associated with computer vision development.
+
+**URL:** [APIs.json](https://raw.githubusercontent.com/api-evangelist/dragoneye/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Contract
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Artificial Intelligence, Image Recognition, Video Recognition
+- Artificial Intelligence
+- Computer Vision
+- Image Recognition
+- Video Recognition
+- Machine Learning
 
 ## Timestamps
 
-- **Created:** 2025-03-01 
-- **Modified:** 2025-03-29 
+- **Created:** 2025-03-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Dragoneye API
-Dragoneye is a computer vision platform designed to democratize access to advanced image and video recognition technologies. It enables developers to build and deploy custom models tailored to their specific use cases without the need for coding or data labeling. By automating the entire processfrom model specification to deploymentDragoneye eliminates the traditional complexities associated with computer vision development.
 
-**Human URL:** [ https://docs.dragoneye.ai]( https://docs.dragoneye.ai)
+The Dragoneye API provides programmatic access to custom and prebuilt computer vision models for image and video recognition. Developers can classify images, detect objects, and run custom-trained models via a REST interface using either the Python or Node.js SDK.
 
+**Human URL:** [https://docs.dragoneye.ai](https://docs.dragoneye.ai)
 
-#### Tags:
+#### Tags
 
- - Artificial Intelligence, Image Recognition, Video Recognition
+- Artificial Intelligence
+- Computer Vision
+- Image Recognition
+- Video Recognition
 
 #### Properties
 
-- [Documentation]( https://docs.dragoneye.ai)
+- [Documentation](https://docs.dragoneye.ai)
+- [Getting Started](https://docs.dragoneye.ai/quick-start)
+- [GitHub Organization](https://github.com/dragoneye-ai)
 
 ## Common Properties
 
+- [Website](https://dragoneye.ai)
 - [Pricing](https://dragoneye.ai/pricing)
-- [Website](https://dragoneye.ai/)
 - [Blog](https://dragoneye.ai/blog)
-- [Documentation](https://docs.dragoneye.ai/?_gl=1*18afjtt*_gcl_au*MTc0MzA0NzM0NC4xNzQwNzg3ODc5)
+- [Documentation](https://docs.dragoneye.ai)
+- [GitHub Organization](https://github.com/dragoneye-ai)
 
 ## Maintainers
 
 **FN:** Kin Lane
 
-**Email:** info@apievangelist.com
-
+**Email:** kin@apievangelist.com
