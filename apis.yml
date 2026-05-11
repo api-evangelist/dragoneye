@@ -59,6 +59,10 @@ common:
   - type: GitHubOrganization
     url: https://github.com/dragoneye-ai
     name: GitHub Organization
+  - type: Integrations
+    url: https://dragoneye.ai/integrations
+integrations:
+  - name: Dragoneye
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
