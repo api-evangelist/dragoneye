@@ -9,7 +9,7 @@ description: >-
   the need for coding or data labeling. By automating the entire process from
   model specification to deployment, Dragoneye eliminates the traditional
   complexities associated with computer vision development.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Artificial Intelligence
