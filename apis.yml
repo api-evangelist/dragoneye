@@ -44,6 +44,8 @@ apis:
       - url: https://github.com/dragoneye-ai
         type: GitHubOrganization
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dragoneyeai
   - type: Website
     url: https://dragoneye.ai
     name: Dragoneye
