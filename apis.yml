@@ -63,6 +63,8 @@ common:
     name: GitHub Organization
   - type: Integrations
     url: https://dragoneye.ai/integrations
+  - type: LLMsTxt
+    url: https://dragoneye.ai/llms.txt
 integrations:
   - name: Dragoneye
 maintainers:
