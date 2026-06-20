@@ -10,7 +10,7 @@ description: >-
   model specification to deployment, Dragoneye eliminates the traditional
   complexities associated with computer vision development.
 kind: contract
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Artificial Intelligence
   - Computer Vision
