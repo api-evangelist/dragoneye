@@ -44,6 +44,8 @@ apis:
       - url: https://github.com/dragoneye-ai
         type: GitHubOrganization
 common:
+  - type: DomainSecurity
+    url: security/dragoneye-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/dragoneyeai
   - type: Website
