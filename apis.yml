@@ -33,7 +33,7 @@ access: 3rd-Party
 position: Consuming
 created: '2025-03-01T00:00:00.000Z'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: dragoneye:dragoneye
     name: Dragoneye API
