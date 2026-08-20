@@ -25,6 +25,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dragoneye.png
 tags:
   - Artificial Intelligence
+  - Computer-Vision
+  - Image Recognition
+  - Video Recognition
+  - Machine-Learning
+tags_raw:
+  - Artificial Intelligence
   - Computer Vision
   - Image Recognition
   - Video Recognition
@@ -43,6 +49,11 @@ apis:
       classify images, detect objects, and run custom-trained models via a
       REST interface using either the Python or Node.js SDK.
     tags:
+      - Artificial Intelligence
+      - Computer-Vision
+      - Image Recognition
+      - Video Recognition
+    tags_raw:
       - Artificial Intelligence
       - Computer Vision
       - Image Recognition
