@@ -34,18 +34,23 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dragoneye.png
+x-docs-platform: docusaurus
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-09-25
 tags:
   - Artificial Intelligence
-  - Computer-Vision
+  - Computer Vision
   - Image Recognition
   - Video Recognition
-  - Machine-Learning
+  - Machine Learning
 tags_raw:
   - Artificial Intelligence
   - Computer Vision
   - Image Recognition
   - Video Recognition
   - Machine Learning
+  - Computer-Vision
+  - Machine-Learning
 access: 3rd-Party
 position: Consuming
 created: '2025-03-01T00:00:00.000Z'
@@ -61,7 +66,7 @@ apis:
       REST interface using either the Python or Node.js SDK.
     tags:
       - Artificial Intelligence
-      - Computer-Vision
+      - Computer Vision
       - Image Recognition
       - Video Recognition
     tags_raw:
@@ -69,6 +74,7 @@ apis:
       - Computer Vision
       - Image Recognition
       - Video Recognition
+      - Computer-Vision
     humanURL: https://docs.dragoneye.ai
     properties:
       - url: https://docs.dragoneye.ai
