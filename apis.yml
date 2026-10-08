@@ -84,6 +84,12 @@ apis:
       - url: https://github.com/dragoneye-ai
         type: GitHubOrganization
 common:
+  - type: Plans
+    url: plans/dragoneye-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/dragoneye-rate-limits.yml
+  - type: FinOps
+    url: finops/dragoneye-finops.yml
   - type: DomainSecurity
     url: security/dragoneye-domain-security.yml
   - type: LinkedIn
